@@ -4,6 +4,16 @@
 
 https://www.youtube.com/watch?v=L1dtkLeIz-M  
 
+추가로 간단하게 테스트에 사용할수 있는 json 서버 예시
+
+```bash
+npm i -D json-server
+
+cd server
+node index.js
+```
+
+
 
 
 ```bash

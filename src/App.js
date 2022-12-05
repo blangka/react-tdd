@@ -1,6 +1,7 @@
 import './App.css';
 import Todo from "./components/todo";
 import ListContainer from "./containers/ListContainer";
+import ApiTestContainer from "./containers/ApiTestContainer";
 
 function App() {
     const todos = [{
@@ -22,6 +23,7 @@ function App() {
             return <Todo todo={todo}/>
         })}
         <ListContainer/>
+        <ApiTestContainer/>
     </div>
   );
 }
