@@ -1,3 +1,15 @@
+## TDD
+
+프로젝트에 사용할 jest와 Testing 라이브러리를 테스트를 위한 프로젝트  
+
+https://www.youtube.com/watch?v=L1dtkLeIz-M  
+
+
+
+```bash
+$ npm install --save-dev @testing-library/react react-test-renderer
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
